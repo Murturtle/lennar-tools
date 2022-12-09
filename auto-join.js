@@ -1,0 +1,1 @@
+javascript:var lennar = setInterval(function(){ document.getElementById('play-btn').click();}, 1);
